@@ -4,7 +4,7 @@
 >[!NOTE]
 >Portifólio desenvolvido para apresentar minhas informações acadêmicas e pessoais.<br/>
 
->*Data da última atualização: **19/06/2024** *
+>*Data da última atualização: **24/06/2024** *
 
 <hr/>
 
@@ -45,7 +45,12 @@ Para o desenvolvimento do projeto, foi utilizado as seguintes tecnologias:<br/>
 
 ### Contribuições pessoais
 
-Minhas contribuições para esse projeto foram no desenvolvimento da raspagem de dados e em destaque o papel de *master* da equipe *scrum*.<br/>
+Minhas contribuições para esse projeto foi em destaque o papel de *master* da equipe *scrum*, o papel exigiu que eu melhorasse minha comunicação com a equipe, com isso pude desenvolver uma visão mais crítica e ampla para entender quais eram as limitações que a equipe estava encontrando e como eu poderia facilitar o caminho da equipe.<br/>
+
+### Lições aprendidas
+
+Com esse projeto fui capaz de entender a importância do papel do *scrum master* em uma equipe que utiliza metodologia *scrum*, pude desenvolver um pouco a mentalidade de um profissional da área, buscando visualizar o produto de acordo com os requisitos passados pelo *product owner* e desenvolvi minhas habilidades com a programação.
+Nesse semestre aprendi muita tecnologias e linguagens de programação novas já que foi meu primeiro contato com a programação, fui capaz de aprender o básico da programação e raspagem de dados,além de aprender a utilizar ferramentas para controle de versão e ferramentas para desenvolvimento de software, podendo assim dar um primeiro passo para minha jornada de aprendizagem.
 
 ### Hard Skills
 
@@ -90,7 +95,12 @@ Para esse projeto, foram utilizadas mais tecnologias comparado ao anterior:<br/>
 
 ### Contribuições pessoais
 
-Neste projeto fui mais ativo como desenvolvedor do que como *Scrum master*, sendo assim minhas *Hard Skills* evoluíram bem comparado ao semestre anterior.
+Neste projeto fui capaz de me desenvolver mais como desenvolvedor, mesmo com o papel de *scrum master* pude realizar tarefas como um desenvolvedor fullstack, elevei minhas habilidades de programação a um nível considerável em comparação ao projeto anterior.
+
+### Lições Aprendidas
+
+Nesse semestre aprendi diversas lições, dentre elas é a base de um desenvolvimento de *software*, o *CRUD* (Create, read, update, delete), aprendi que o *CRUD* é a base para a maioria dos projetos de desenvolvimento de software. Outra lição aprendida foi a visão do produto, mesmo não desempenhando o papel de *product owner*, fui capaz de entender que como desenvolvedor é importante ter uma visão do produto para poder esclarecer as dúvidas com o *PO*, além de que é importante para desenvolver sua própria tarefa, já que se é possível visualizar o funcionamento, o desenvolvimento fica mais fácil.
+Fui capaz de aprender novas tecnologias como o *REACT*, novas linguagens de programação como o *TypeScript* e o *JavaScript*, além de que aprofundei meus conhecimentos em banco de dados.
 
 ### Hard Skills
  - Utilização da tecnologia *React* para o desenvolvimento front-end: **Sei fazer com ajuda**;
@@ -150,7 +160,12 @@ Resumindo, o sistema é destinado para empresas e seus funcionarios, onde a empr
 
 ### Contribuição pessoal
 
-Minha contribuição para esse projeto foi totalmente como desenvolvedor, meu papel inicialmente seria como desenvolvedor *back-end* mas devido a necessidade na equipe, trabalhei como desenvolvedor *fullstack*.
+Nesse semestre minha contribuição pessoal teve um desenvolvimento considerável comparado aos semestres anteriores, além de aprender a tecnologia *spring*, aprendi a linguaem de programação orientada a objetos *Java*, que me ajudou a desenvolver minhas habilidades de programação, a forma que a linguagem é estruturada fez com que eu mudasse a forma como penso, e graças a eu ter mudado minha mentalidade, fui capaz de entender um outro lado da programação .
+
+### Lições Aprendidas
+
+Comparado ao semestres passados esse foi o que mais fui capaz de aprender e me desenvolver, por conta de algumas situações no meu grupo, aprendi a importância de ter ou não ter um determinado membro no grupo, e percebi que a cada semestre chegamos mais próximos do ambiente de trabalho do mundo real, entendi a importância de retirar membros que atrasam o grupo, para que otimize a entrega do produto.
+Mesmo que não tenha aprendido muitas outras novas tecnologias, fui capaz de desenvolver a base que desenvolvi nos projetos passados, portanto nesse semestre eu aprofundei conhecimentos que já tinha.
 
 ### Hard Skills
 
