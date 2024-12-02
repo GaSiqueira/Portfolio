@@ -1,10 +1,10 @@
-# Portifolio - Gabriel Siqueira
+# Portfólio - Gabriel Siqueira
 
 
 >[!NOTE]
->Portifólio desenvolvido para apresentar minhas informações acadêmicas e pessoais.<br/>
+>Portfólio desenvolvido para apresentar minhas informações acadêmicas e pessoais.<br/>
 
->*Data da última atualização: **24/06/2024** *
+>*Data da última atualização: **01/12/2024** *
 
 <hr/>
 
@@ -15,6 +15,19 @@
 Formado em ensino técnico de redes de computadores na [ETEC](https://etecjbento.com.br/web/) de Jacareí, minha jornada de estudos sobre computação e tecnologia começou em 2021, porém minha caminhada na programação começou em 2023 no curso de *[desenvolvimento de software multiplataforma](https://fatecsjc-prd.azurewebsites.net/curso_dsm)* na [Faculdade de Tecnologia de São José dos Campos - Prof. Jessen Vidal.](https://fatecsjc-prd.azurewebsites.net/)
 
 Durante o tempo que passei estudando na FATEC, meu desenvolvimento de *HARD* e *SOFT* *skills* foi notório e percebi a capacidade de ir além, desde então minha busca de ser melhor tanto como profissional como pessoa foi continua.
+
+## Principais conhecimentos
+Por mais que eu tenha conhecimento em tecnologias de desenvolvimento front-end, meu principal interesse são tecnologias para o desenvolvimento back-end, entre elas estão:
+
+* Java
+* Spring Framework
+* Python
+* SQL
+* React
+* JavaScript
+* TypeScript
+* HTML
+* CSS
 
 ## Projetos
 ## [Consulta-Vid](https://github.com/APIEquipe/EquipeTechEmpireAPI/blob/main/README.md#sobre-o-projeto) - 2023-1
@@ -116,11 +129,11 @@ Fui capaz de aprender novas tecnologias como o *REACT*, novas linguagens de prog
  - Utilização de tecnologia para controle de versão (Git e GitHub): **Sei fazer com autonomia**.
 
 ### Soft Skills
-  - [**Comunicação**](): Nesse projeto a comunicação foi a chave para o desenvolvimento da equipe, sem a comunicação não seria possível extrair o potêncial da equipe, mesmo que a equipe tivesse suas incapacidades.
+[**Comunicação**](): Nesse projeto a comunicação foi a chave para o desenvolvimento da equipe, sem a comunicação não seria possível extrair o potêncial da equipe, mesmo que a equipe tivesse suas incapacidades.
     
-  - [**Pensamento Crítico**](): Fui capaz de desenvolver um pensamento crítico para que pudesse compreender o que faltava para o projeto, para que pudesse encontrar e resolver problemas no sistema.
+[**Pensamento Crítico**](): Fui capaz de desenvolver um pensamento crítico para que pudesse compreender o que faltava para o projeto, para que pudesse encontrar e resolver problemas no sistema.
     
-  - [**Organização**](): Com auxilio de ferramentas e comunicação, a orgarnização estava presente durante todo o projeto, ajudando eu e minha equipe a manter eficiência do projeto.
+[**Organização**](): Com auxilio de ferramentas e comunicação, a orgarnização estava presente durante todo o projeto, ajudando eu e minha equipe a manter eficiência do projeto.
 
 <hr/>
 
@@ -160,7 +173,7 @@ Resumindo, o sistema é destinado para empresas e seus funcionarios, onde a empr
 
 ### Contribuição pessoal
 
-Nesse semestre minha contribuição pessoal teve um desenvolvimento considerável comparado aos semestres anteriores, além de aprender a tecnologia *spring*, aprendi a linguaem de programação orientada a objetos *Java*, que me ajudou a desenvolver minhas habilidades de programação, a forma que a linguagem é estruturada fez com que eu mudasse a forma como penso, e graças a eu ter mudado minha mentalidade, fui capaz de entender um outro lado da programação .
+Nesse semestre minha contribuição pessoal teve um desenvolvimento considerável comparado aos semestres anteriores, além de aprender a tecnologia *spring*, aprendi a linguagem de programação orientada a objetos *Java*, que me ajudou a desenvolver minhas habilidades de programação, a forma que a linguagem é estruturada fez com que eu mudasse a forma como penso, e graças a eu ter mudado minha mentalidade, fui capaz de entender um outro lado da programação .
 
 ### Lições Aprendidas
 
@@ -187,19 +200,78 @@ Mesmo que não tenha aprendido muitas outras novas tecnologias, fui capaz de des
 
 ### Soft Skills
 
-  - [**Comunicação**](): Nesse projeto a comunicação foi a chave para o desenvolvimento da equipe, sem a comunicação não seria possível extrair o potêncial da equipe, mesmo que a equipe tivesse suas incapacidades.
+[**Comunicação**](): Nesse projeto a comunicação foi a chave para o desenvolvimento da equipe, sem a comunicação não seria possível extrair o potêncial da equipe, mesmo que a equipe tivesse suas incapacidades.
     
-  - [**Pensamento Crítico**](): Fui capaz de desenvolver um pensamento crítico para que pudesse compreender o que faltava para o projeto, para que pudesse encontrar e resolver problemas no sistema.
+[**Pensamento Crítico**](): Fui capaz de desenvolver um pensamento crítico para que pudesse compreender o que faltava para o projeto, para que pudesse encontrar e resolver problemas no sistema.
     
-  - [**Solução de problemas**](): Nesse projeto fui capaz de desenvolver a solução de problemas, comunicava com o *Project Owner* da equipe sobre problemas a serem resolvidos, e pensava na solução dos mesmos.
+[**Solução de problemas**](): Nesse projeto fui capaz de desenvolver a solução de problemas, comunicava com o *Project Owner* da equipe sobre problemas a serem resolvidos, e pensava na solução dos mesmos.
 
-  - [**Proatividade**](): Esse projeto exigiu mais de mim como desenvolvedor, devido a incapacidade de alguns membros de equipe e que graças a isso fui capaz de me tornar mais proativo e puxar a responsabilidade no desenvolvimento das tarefas.
+[**Proatividade**](): Esse projeto exigiu mais de mim como desenvolvedor, devido a incapacidade de alguns membros de equipe e que graças a isso fui capaz de me tornar mais proativo e puxar a responsabilidade no desenvolvimento das tarefas.
 
-  - [**Resiliência**](): Devido ao ambiente que participava, a resiliência foi um ponto chave para superar desafios que encontrei durante o processo de desenvolvimento do projeto.
+[**Resiliência**](): Devido ao ambiente que participava, a resiliência foi um ponto chave para superar desafios que encontrei durante o processo de desenvolvimento do projeto.
+
+</hr>
+
+## [Meteorological Data Collector](https://github.com/BananaScripts/Meteorological-Data-Collector?tab=readme-ov-file) - 2024-2
+### Parceiro acadêmico
+[Tecsus](https://tecsus.com.br/)
+
+Aceitando o desafio dessa vez da empresa Tecsus, empresa essa que é especializada na coleta e processamento de dados utilizando redes de sensores sem fio, também conhecidas como Internet das Coisas (_IoT_) para aplicação em setores como abastecimento de água, distribuição de eletricidade e gás natural.</br>
+A proposta seria de um desenvolvimento de uma aplicação web que auxilie na coleta, processamento e visualização de dados coletados por estações meteorológicas, no qual o sistema disponibiliza funcionalidades para visusalizar os dados das estações, sendo possivel aplicar filtros se desejado, sistema de alerta para momentos em que um parametro seja excedido, uma página de educação para incentivar alunos do ensino médio a aprender.
+
+![image](https://github.com/user-attachments/assets/c0e3e5ab-5d26-4b6e-a91e-ea02a1eeb9bc)
+![image](https://github.com/user-attachments/assets/0b917d9e-6bb1-425c-9035-25ad3f25a2d1)
+![image](https://github.com/user-attachments/assets/4d7c142d-0e94-4d2c-8877-56f5d1fa0239)
+(*Fonte: [github.com/BananaScripts/Meteorological-Data-Collector](https://github.com/BananaScripts/Meteorological-Data-Collector)*)
+
+
+### Tecnologias utilizadas
+Para o desenvolvimento do projeto, foi utilizado as seguintes tecnologias:<br/>
+
+  - Biblioteca [*React*](https://react.dev/) para o desenvolvimento do front-end do projeto;
+
+  - Tecnologia auxiliar no desenvolvimento do back-end [*Prisma ORM*](https://www.prisma.io/);
+
+  - [Figma](https://www.figma.com/) para o desenvolvimento do wireframe do projeto;
+
+  - Banco de dados relacional SQL;
+
+  - Banco de dados não relacional [*MongoDB*](https://www.mongodb.com/);
+
+  - [Git issues](https://github.com/features/issues) e [Zube](https://zube.io/) para o controle de tarefas e relatórios;
+
+  - [*Git*](https://www.git-scm.com/) e [*Github*](https://github.com/) para o controle de versão.
+
+### Contribuições pessoais
+Para esse semestre atuei no desenvolvimento do back-end do sistema, desenvolvi os sistemas de login e de alertas, além de participar ativamente em correções e desenvolvimento dos controles que gerenciam os dados enviados para o banco de dados.
+<br/>
+
+### Lições aprendidas
+Nesse semestre aprendi mais sobre Devops e a importância de ser bem aplicado em um projeto, além de que percebi o quanto de diferença que faz um grupo de desenvolvimento menor, foi notório a diferença na comunicação do grupo por conta da quantidade de membros além de entregar um produto e processo superior comparado com semestres passados.
+
+### Hard Skills
+
+ - Utilização da tecnologia *React* para o desenvolvimento front-end: **Sei fazer com autonomia*;
+   
+ - Utilização de linguagem de marcação e estilização *HTML* e *CSS*: **Sei fazer com autonomia**;
+   
+ - Utilização das linguagens de programação *TypeScript* para o desenvolvimento do **front-end** e **back-end** do projeto: **Sei fazer com autonomia**;
+   
+ - Utilização do sistema gerenciador de banco de dados *SQL* para estruturação e armazenamento de dados do projeto: **Sei fazer com autonomia**;
+   
+ - Utilização de tecnologia para controle de versão (Git e GitHub): **Sei fazer com autonomia**.
+
+### Soft Skills
+
+[**Comunicação**](): Para esse projeto a comunicação foi a chave para entregar um bom produto e aplicar um bom processo de desenvolvimento.
+
+[**Pensamento Crítico**](): Foi essêncial um pensamento crítico para entender a necessidades tanto do sistema como no próprio time de desenvolvimento.
+    
+[**Solução de problemas**](): Para e entrega de uma boa _feature_ é preciso saber solucionar um problema, assim como nos projetos passados nesse não foi diferente.
 
 
 ### Próximo semestre
 
 >[!NOTE]
->No próximo semestre eu desejo me desenvolver mais, eu quero buscar mais de mim mesmo, aprender mais sobre a área que desejo atuar e por fim desejo entregar mais nos projetos que eu participar.
+>No próximo semestre eu desejo atingir algo que ainda não fui capaz, desenvolver mais sobre qual área que desejo atuar.
 
