@@ -17,7 +17,7 @@ Formado em ensino técnico de redes de computadores na [ETEC](https://etecjbento
 Durante o tempo que passei estudando na FATEC, meu desenvolvimento de *HARD* e *SOFT* *skills* foi notório e percebi a capacidade de ir além, desde então minha busca de ser melhor tanto como profissional como pessoa foi continua.
 
 ## Principais conhecimentos
-Por mais que eu tenha conhecimento em tecnologias de desenvolvimento front-end, meu principal interesse são tecnologias para o desenvolvimento back-end, entre elas estão:
+Por mais que eu tenha conhecimento em tecnologias de desenvolvimento _front-end_, meu principal interesse são tecnologias para o desenvolvimento _back-end_, entre elas estão:
 
 * Java
 * Spring Framework
@@ -230,9 +230,9 @@ Para o desenvolvimento do projeto, foi utilizado as seguintes tecnologias:<br/>
 
   - Biblioteca [*React*](https://react.dev/) para o desenvolvimento do front-end do projeto;
 
-  - Tecnologia auxiliar no desenvolvimento do back-end [*Prisma ORM*](https://www.prisma.io/);
+  - Tecnologia auxiliar no desenvolvimento do _back-end_ [*Prisma ORM*](https://www.prisma.io/);
 
-  - [Figma](https://www.figma.com/) para o desenvolvimento do wireframe do projeto;
+  - [Figma](https://www.figma.com/) para o desenvolvimento do _wireframe_ do projeto;
 
   - Banco de dados relacional SQL;
 
@@ -243,7 +243,7 @@ Para o desenvolvimento do projeto, foi utilizado as seguintes tecnologias:<br/>
   - [*Git*](https://www.git-scm.com/) e [*Github*](https://github.com/) para o controle de versão.
 
 ### Contribuições pessoais
-Para esse semestre atuei no desenvolvimento do back-end do sistema, desenvolvi os sistemas de login e de alertas, além de participar ativamente em correções e desenvolvimento dos controles que gerenciam os dados enviados para o banco de dados.
+Para esse semestre atuei no desenvolvimento do _back-end_ do sistema, desenvolvi os sistemas de _login_ e de alertas, além de participar ativamente em correções e desenvolvimento dos controles que gerenciam os dados enviados para o banco de dados.
 <br/>
 
 ### Lições aprendidas
@@ -265,7 +265,7 @@ Nesse semestre aprendi mais sobre Devops e a importância de ser bem aplicado em
 
 [**Comunicação**](): Para esse projeto a comunicação foi a chave para entregar um bom produto e aplicar um bom processo de desenvolvimento.
 
-[**Pensamento Crítico**](): Foi essêncial um pensamento crítico para entender a necessidades tanto do sistema como no próprio time de desenvolvimento.
+[**Pensamento Crítico**](): Foi necessário um pensamento crítico para entender a necessidades tanto do sistema como no próprio time de desenvolvimento.
     
 [**Solução de problemas**](): Para e entrega de uma boa _feature_ é preciso saber solucionar um problema, assim como nos projetos passados nesse não foi diferente.
 
