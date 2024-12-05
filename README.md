@@ -4,7 +4,7 @@
 >[!NOTE]
 >Portfólio desenvolvido para apresentar minhas informações acadêmicas e pessoais.<br/>
 
->*Data da última atualização: **01/12/2024** *
+>*Data da última atualização: **05/12/2024** *
 
 <hr/>
 
