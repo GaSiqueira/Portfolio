@@ -38,7 +38,8 @@ Neste projeto nosso parceiro acadêmico propôs um projeto com ênfase no ocorri
 
 O sistema abordou um processo de coleta de dados sobre os sintomas prolongados do *covid-19*, com foco na região do vale do paraíba foi desenvolvido funcionalidades para analisar os dados coletados, podendo assim exibir para o usuário os sintomas do *covid* longa e os momentos de picos durante a pandemia.
 
-![](https://private-user-images.githubusercontent.com/125694331/243236844-154afaf8-d5ef-4e97-9dfa-c343e5be52c9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg4MDY0MTQsIm5iZiI6MTcxODgwNjExNCwicGF0aCI6Ii8xMjU2OTQzMzEvMjQzMjM2ODQ0LTE1NGFmYWY4LWQ1ZWYtNGU5Ny05ZGZhLWMzNDNlNWJlNTJjOS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxOVQxNDA4MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zZTFjMTRmOTA1ZTI0MzdlMzg0ODUxNGE5NmNlZWU5OGU4OTgyODg2MDhiNGNhM2ViZGI3OWI3MzhmN2EwYmEyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CjukkqBe9pfymqQRWox6CrVT1Qr4RWpt8byoHkX_Yqc)
+![image](https://github.com/user-attachments/assets/07407ac1-e8f6-410d-aba9-dd57756d4773)
+
 
 (*Fonte: [github.com/APIEquipe/EquipeTechEmpireAPI/blob/main/relatorios-sprint/sprint4.md](https://github.com/APIEquipe/EquipeTechEmpireAPI/blob/main/relatorios-sprint/sprint4.md#sprint-4)*)
 
@@ -108,7 +109,7 @@ Para esse projeto, foram utilizadas mais tecnologias comparado ao anterior:<br/>
 
 ### Contribuições pessoais
 
-Neste projeto fui capaz de me desenvolver mais como desenvolvedor, mesmo com o papel de *scrum master* pude realizar tarefas como um desenvolvedor fullstack, elevei minhas habilidades de programação a um nível considerável em comparação ao projeto anterior.
+Nesse projeto eu participei ativamente como desenvolvedor _fullstack_ e um período como _scrum master_, como desenvolvedor fiquei responsável por desenvolver o controle de rotas do sistema e a _feature_ do SLA, e atuei como _scrum master_ resolvendo conflitos entre os desenvolvedores da equipe e facilitando o trabalho deles.
 
 ### Lições Aprendidas
 
@@ -129,11 +130,9 @@ Fui capaz de aprender novas tecnologias como o *REACT*, novas linguagens de prog
  - Utilização de tecnologia para controle de versão (Git e GitHub): **Sei fazer com autonomia**.
 
 ### Soft Skills
-[**Comunicação**](): Nesse projeto a comunicação foi a chave para o desenvolvimento da equipe, sem a comunicação não seria possível extrair o potêncial da equipe, mesmo que a equipe tivesse suas incapacidades.
+[**Pensamento Crítico**](): Para esse projeto eu precisei de um pensamento crítico mais apurado para desenvolver minhas tarefas, por ser um projeto que utiliza processos e tecnologias novas.
     
-[**Pensamento Crítico**](): Fui capaz de desenvolver um pensamento crítico para que pudesse compreender o que faltava para o projeto, para que pudesse encontrar e resolver problemas no sistema.
-    
-[**Organização**](): Com auxilio de ferramentas e comunicação, a orgarnização estava presente durante todo o projeto, ajudando eu e minha equipe a manter eficiência do projeto.
+[**Organização**](): A organização foi um ponto chave por conta dos novos membros que entraram no grupo, então para manter um bom processo foi necessário uma boa organização.
 
 <hr/>
 
@@ -173,7 +172,8 @@ Resumindo, o sistema é destinado para empresas e seus funcionarios, onde a empr
 
 ### Contribuição pessoal
 
-Nesse semestre minha contribuição pessoal teve um desenvolvimento considerável comparado aos semestres anteriores, além de aprender a tecnologia *spring*, aprendi a linguagem de programação orientada a objetos *Java*, que me ajudou a desenvolver minhas habilidades de programação, a forma que a linguagem é estruturada fez com que eu mudasse a forma como penso, e graças a eu ter mudado minha mentalidade, fui capaz de entender um outro lado da programação .
+Nesse semestre minha contribuição pessoal teve um desenvolvimento considerável comparado aos semestres anteriores, além de aprender a tecnologia *spring*, aprendi a linguagem de programação orientada a objetos *Java*, que me ajudou a desenvolver minhas habilidades de programação, a forma que a linguagem é estruturada fez com que eu mudasse a forma como penso, e graças a eu ter mudado minha mentalidade, fui capaz de entender um outro lado da programação.
+Utilizando as novas tecnologias aprendidas, atuei como um desenvolvedor _back-end_ mas auxiliei no desenvolvimento do _front-end_, para o back-end eu desenvolvi os sistemas de notificações e controles de rotas, enquanto no _front-end_ eu fiz a implementação do _back-end_.
 
 ### Lições Aprendidas
 
@@ -200,11 +200,7 @@ Mesmo que não tenha aprendido muitas outras novas tecnologias, fui capaz de des
 
 ### Soft Skills
 
-[**Comunicação**](): Nesse projeto a comunicação foi a chave para o desenvolvimento da equipe, sem a comunicação não seria possível extrair o potêncial da equipe, mesmo que a equipe tivesse suas incapacidades.
-    
-[**Pensamento Crítico**](): Fui capaz de desenvolver um pensamento crítico para que pudesse compreender o que faltava para o projeto, para que pudesse encontrar e resolver problemas no sistema.
-    
-[**Solução de problemas**](): Nesse projeto fui capaz de desenvolver a solução de problemas, comunicava com o *Project Owner* da equipe sobre problemas a serem resolvidos, e pensava na solução dos mesmos.
+[**Solução de problemas**](): Nesse projeto foi preciso uma boa solução de problemas, o _PO_(_Product Owner_) que não tinha um bom conhecimento das tecnologias novas e de tecnologias ensinadas nos semestres anteriores, foi um obstaculo para desenvolver o sistema, com isso a solução de problemas estava tanto fora quanto dentro do desenvolvimento do projeto.
 
 [**Proatividade**](): Esse projeto exigiu mais de mim como desenvolvedor, devido a incapacidade de alguns membros de equipe e que graças a isso fui capaz de me tornar mais proativo e puxar a responsabilidade no desenvolvimento das tarefas.
 
@@ -243,7 +239,8 @@ Para o desenvolvimento do projeto, foi utilizado as seguintes tecnologias:<br/>
   - [*Git*](https://www.git-scm.com/) e [*Github*](https://github.com/) para o controle de versão.
 
 ### Contribuições pessoais
-Para esse semestre atuei no desenvolvimento do _back-end_ do sistema, desenvolvi os sistemas de _login_ e de alertas, além de participar ativamente em correções e desenvolvimento dos controles que gerenciam os dados enviados para o banco de dados.
+Para esse semestre atuei principalmente como desenvolvedor _back-end_, desenvolvi os sistemas de _login_ e de alertas, além de participar ativamente em correções e desenvolvimento dos controles que gerenciam os dados enviados para o banco de dados.
+Também atuei no papel de definir a rastreabilidade para a equipe.
 <br/>
 
 ### Lições aprendidas
@@ -251,7 +248,7 @@ Nesse semestre aprendi mais sobre Devops e a importância de ser bem aplicado em
 
 ### Hard Skills
 
- - Utilização da tecnologia *React* para o desenvolvimento front-end: **Sei fazer com autonomia*;
+ - Utilização da tecnologia *React* para o desenvolvimento front-end: **Sei fazer com autonomia**;
    
  - Utilização de linguagem de marcação e estilização *HTML* e *CSS*: **Sei fazer com autonomia**;
    
@@ -263,12 +260,7 @@ Nesse semestre aprendi mais sobre Devops e a importância de ser bem aplicado em
 
 ### Soft Skills
 
-[**Comunicação**](): Para esse projeto a comunicação foi a chave para entregar um bom produto e aplicar um bom processo de desenvolvimento.
-
-[**Pensamento Crítico**](): Foi necessário um pensamento crítico para entender a necessidades tanto do sistema como no próprio time de desenvolvimento.
-    
-[**Solução de problemas**](): Para e entrega de uma boa _feature_ é preciso saber solucionar um problema, assim como nos projetos passados nesse não foi diferente.
-
+[**Trabalho em equipe**](): Mesmo que nos semestres anterires o trabalho de equipe estava presente, nesse projeto ele teve muito mais destaque, com o nosso grupo de três desenvolvedores foi necessário um trabalho de equipe considerável para entregar o produto.
 
 ### Próximo semestre
 
